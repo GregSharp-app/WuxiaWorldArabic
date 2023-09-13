@@ -551,7 +551,10 @@ input[type='checkbox'] {
 	font: 600 0.875rem/0.875rem "Open Sans", sans-serif;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.3);
 }
+.ss{
+border: 1px solid red !important;
 
+}
 .navbar .navbar-brand {
 	padding-top: 0.25rem;
 	padding-bottom: 0.25rem;
